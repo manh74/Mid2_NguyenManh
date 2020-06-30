@@ -22,26 +22,11 @@
     <tbody>
       <tr>
         <td>1. Đăng kí</td>
-        
+        <td>B1: Nhấn vào button Đăng kí ở trên cùng bên trái màn hình.
+          <br>Hoàn thành các ô nhập dữ liệu sau đó nhấn vào nút đăng ký.</td>
       </tr>
-      <tr>
-        <td>2. Đăng nhập </td>
-        
-      </tr>
-      <tr>
-        <td>3. Logout</td>
-        
-      </tr>
-      <tr>
-        <td>4. Xem chi tiết sản phẩm</td>
-        
-      </tr>
-      <tr>
-        <td>5. Thêm sp vào giỏ hàng</td>
-        
-      </tr>
-        
-        
+      
+
         
     </tbody>
   </table>
