@@ -22,15 +22,15 @@
     <tbody>
       <tr>
         <td>1. Đăng kí</td>
-        <td>B1: Nhấn vào button Đăng kí ở trên cùng bên trái màn hình.
+        <td>B1: Nhấn vào button Đăng kí ở trên cùng bên phải màn hình.
           <br>B2: Hoàn thành các ô nhập dữ liệu sau đó nhấn vào nút đăng ký.</td>
         <td><img src="https://i.ibb.co/7YWGHpg/Capture.png" alt="" width="400" height="700"></td>
       </tr>
       <tr>
-        <td>1. Đăng kí</td>
-        <td>B1: Nhấn vào button Đăng kí ở trên cùng bên trái màn hình.
-          <br>B2: Hoàn thành các ô nhập dữ liệu sau đó nhấn vào nút đăng ký.</td>
-        <td><img src="https://i.ibb.co/7YWGHpg/Capture.png" alt="" width="400" height="700"></td>
+        <td>1. Đăng nhập</td>
+        <td>B1: Nhấn vào button Đăng nhập ở trên cùng bên phải màn hình.
+          <br>B2: Hoàn thành các ô nhập dữ liệu sau đó nhấn vào nút đăng nhập.</td>
+        <td><img src="https://i.ibb.co/Fz1dNBw/Capture.png" alt="" width="400" height="700"></td>
         <tr>
      </tbody> 
   </table>
