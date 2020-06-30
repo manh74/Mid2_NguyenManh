@@ -19,16 +19,16 @@
         <th>Ví dụ</th>
       </tr>
     </thead>
-    <tbody>
+    
       <tr>
         <td>1. Đăng kí</td>
         <td>B1: Nhấn vào button Đăng kí ở trên cùng bên trái màn hình.
-          <br>Hoàn thành các ô nhập dữ liệu sau đó nhấn vào nút đăng ký.</td>
+          <br>B2: Hoàn thành các ô nhập dữ liệu sau đó nhấn vào nút đăng ký.</td>
       </tr>
       
 
         
-    </tbody>
+   
   </table>
   </div>
 </div>
