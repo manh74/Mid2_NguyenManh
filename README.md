@@ -12,13 +12,12 @@
   <p>Mô tả chức năng:</p>                                                                                      
   <div class="table-responsive">          
   <table class="table">
-    <thead>
+    
       <tr>
         <th>Chức năng</th>
         <th>Mô tả</th>
         <th>Ví dụ</th>
       </tr>
-    </thead>
     
       <tr>
         <td>1. Đăng kí</td>
