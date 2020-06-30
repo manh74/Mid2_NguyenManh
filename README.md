@@ -15,22 +15,34 @@
     <thead>
       <tr>
         <th>Chức năng</th>
-        <th>1. Đăng kí</th>
-        <th>2. Đăng nhập </th>
-        <th>3. Logout</th>
-        <th>4. Xem chi tiết sản phẩm</th>
-        <th>5. Thêm sp vào giỏ hàng</th>
+        <th>Mô tả</th>
+        <th>Ví dụ</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
+        <td>1. Đăng kí</td>
+        
       </tr>
+      <tr>
+        <td>2. Đăng nhập </td>
+        
+      </tr>
+      <tr>
+        <td>3. Logout</td>
+        
+      </tr>
+      <tr>
+        <td>4. Xem chi tiết sản phẩm</td>
+        
+      </tr>
+      <tr>
+        <td>5. Thêm sp vào giỏ hàng</td>
+        
+      </tr>
+        
+        
+        
     </tbody>
   </table>
   </div>
